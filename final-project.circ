@@ -425,6 +425,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="east"/>
       <a name="label" val="x/m swtp"/>
     </comp>
+    <comp lib="6" loc="(762,587)" name="Text">
+      <a name="text" val="ECE350"/>
+      <a name="font" val="DialogInput bold 128"/>
+    </comp>
     <comp lib="0" loc="(940,130)" name="Tunnel">
       <a name="label" val="GAME OVER :("/>
     </comp>
